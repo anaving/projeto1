@@ -157,6 +157,7 @@ form button {
     color: #fff;
     border: none;
     cursor: pointer;
+    font-size: larger;
 }
 
 form button:hover {
