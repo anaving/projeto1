@@ -168,7 +168,6 @@ input:focus, textarea:focus {
 }
 
 .useful-links {
-    color: black;
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 
@@ -179,6 +178,7 @@ input:focus, textarea:focus {
 
 .useful-links li a {
     text-decoration: none;
+    color: #000000;
 }
 
 
